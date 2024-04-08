@@ -26,10 +26,9 @@ mongoose.connect('sua-string-de-conexao', {
 ```
 5. Inicie o servidor:
 ```bash
-Copy code
 npm start
-A API estará disponível em http://localhost:3000/api/foods
 ```
+A API estará disponível em http://localhost:3000/api/foods
 
 Rotas da API
 Listar todos os alimentos (GET): /api/foods
