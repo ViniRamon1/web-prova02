@@ -31,6 +31,7 @@ npm start
 A API estará disponível em http://localhost:3000/api/foods
 
 Rotas da API
+```bash
 Listar todos os alimentos (GET): /api/foods
 
 Retorna uma lista de todos os alimentos no banco de dados.
@@ -63,3 +64,4 @@ Excluir um alimento (DELETE): /api/foods/:id
 Remove um alimento com base no ID fornecido.
 Testando a API
 Você pode testar as rotas da API utilizando ferramentas como Postman, Thunder Client ou Insomnia.
+```
